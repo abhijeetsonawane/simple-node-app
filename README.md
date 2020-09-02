@@ -16,5 +16,13 @@
     node app.js
     ```
     
+    ## Build Docker Image
+    
+    Replace abhijeetsonawane/simple-node-app with your docker username
+    
+    ``` java
+     docker build -t abhijeetsonawane/simple-node-app .
+    ```
+    
     ## License
     [MIT](https://choosealicense.com/licenses/mit/)
